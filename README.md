@@ -5,9 +5,9 @@ A Novel Tensor-based Temporal Multi-Task Survival Analysis Model
 [![image](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/wangpinggl/MTMT/blob/master/LICENSE)
 [![image](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/wangpinggl/MTMT/graphs/contributors)
 
-- This repository is a pytorch implementation of the tensor-based temporal multi-task survival analysis model proposed in the following paper:
+- This repository is an implementation of the tensor-based temporal multi-task survival analysis model proposed in the following paper:
 
-[A Novel Tensor-based Temporal Multi-Task Survival Analysis Model](link will be added soon)
+[A Novel Tensor-based Temporal Multi-Task Survival Analysis Model](The link to the paper will be added soon.)
 
 [Ping Wang](https://github.com/wangpinggl)
 [Tian Shi](https://github.com/tshi04), 
