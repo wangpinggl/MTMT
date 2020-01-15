@@ -9,7 +9,7 @@ A Novel Tensor-based Temporal Multi-Task Survival Analysis Model
 
 [A Novel Tensor-based Temporal Multi-Task Survival Analysis Model](The link to the paper will be added soon.)
 
-[Ping Wang](https://github.com/wangpinggl)
+[Ping Wang](https://github.com/wangpinggl),
 [Tian Shi](https://github.com/tshi04), 
 [Chandan K. Reddy](http://people.cs.vt.edu/~reddy/)
 
