@@ -4,18 +4,14 @@
 [![image](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/wangpinggl/MTMT/blob/master/LICENSE)
 [![image](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/wangpinggl/MTMT/graphs/contributors)
 
-- This repository is an implementation of the tensor-based temporal multi-task survival analysis model proposed in our work published on TKDE: [# Tensor-based Temporal Multi-Task Survival Analysis](https://ieeexplore.ieee.org/document/8962039)
-
-[Ping Wang](https://github.com/wangpinggl),
-[Tian Shi](https://github.com/tshi04), 
-[Chandan K. Reddy](http://people.cs.vt.edu/~reddy/)
+- This repository is an implementation of the tensor-based temporal multi-task survival analysis model proposed in our work published on TKDE'20: [Tensor-based Temporal Multi-Task Survival Analysis](https://ieeexplore.ieee.org/document/8962039)
 
 ## Citation
 Ping Wang, Tian Shi, and Chandan K. Reddy, "Tensor-based Temporal Multi-Task Survival Analysis", IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
 
 ```
-@ARTICLE{8962039,  
-author={P. {Wang} and T. {Shi} and C. K. {Reddy}},  
+@ARTICLE{wang2020tensor,  
+author={Wang, Ping and Shi, Tian and Reddy, Chandan K.},  
 journal={IEEE Transactions on Knowledge and Data Engineering},  
 title={Tensor-based Temporal Multi-Task Survival Analysis},   
 year={2020}}
