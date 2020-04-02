@@ -1,7 +1,7 @@
 '''
 Model Training and Testing.
 '''
-from mtLF1_model import mtLF1
+from model import mtLF1
 import pandas
 import numpy as np
 import os
