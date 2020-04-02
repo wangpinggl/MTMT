@@ -2,7 +2,6 @@
 
 [![image](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![image](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/wangpinggl/MTMT/blob/master/LICENSE)
-[![image](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/wangpinggl/MTMT/graphs/contributors)
 
 - This repository is an implementation of the tensor-based temporal multi-task survival analysis model proposed in our work published on TKDE'20: [Tensor-based Temporal Multi-Task Survival Analysis](https://ieeexplore.ieee.org/document/8962039).
 
